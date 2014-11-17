@@ -1,0 +1,28 @@
+{
+  "name": "just.build",
+  "version": "1.0.0",
+  "description": "Sample AWS Elastic Beanstalk Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teagup/just.build.git"
+  },
+  "keywords": [
+    "AWS",
+    "Elastic",
+    "Beanstalk",
+    "Node"
+  ],
+  "author": "Patrick Teague",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teagup/just.build/issues"
+  },
+  "homepage": "https://github.com/teagup/just.build",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
